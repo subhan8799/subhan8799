@@ -30,6 +30,6 @@
 </div>
 
 ## 📫 Say Hi
-<a href="mailto:akabdulrehman159@gmail.com">
-<img  alt="akabdulrehman159@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
+<a href="mailto:mian8799@gmail.com">
+<img  alt="mian8799@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
 </a>
